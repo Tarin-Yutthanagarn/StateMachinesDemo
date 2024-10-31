@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateMachineExercises", "StateMachineExercises.csproj", "{9E049AD6-23C0-46D3-9549-F19C3B416362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qf4net_dotnet2", "..\..\..\..\Frameworks\parsel2019\core\Components\qf4net\qf4net_dotnet2.csproj", "{068CD5CC-1000-430B-A575-A1E5644EDFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E049AD6-23C0-46D3-9549-F19C3B416362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E049AD6-23C0-46D3-9549-F19C3B416362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E049AD6-23C0-46D3-9549-F19C3B416362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E049AD6-23C0-46D3-9549-F19C3B416362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068CD5CC-1000-430B-A575-A1E5644EDFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068CD5CC-1000-430B-A575-A1E5644EDFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068CD5CC-1000-430B-A575-A1E5644EDFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068CD5CC-1000-430B-A575-A1E5644EDFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B22900DF-15B6-4F79-974C-DB380A38DC95}
+	EndGlobalSection
+EndGlobal
