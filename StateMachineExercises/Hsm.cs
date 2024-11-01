@@ -88,9 +88,9 @@ namespace StateMachineExercises
                 return null;
             }
 
-            if (qEvent.IsSignal(QSignals.Entry))
+            if (qEvent.IsSignal(QSignals.Exit))
             {
-                OnDisplayState("Enter B");
+                OnDisplayState("Exit B");
                 return null;
             }
 
@@ -105,7 +105,7 @@ namespace StateMachineExercises
                 return null;
             }
 
-            if (qEvent.IsSignal(QSignals.Entry))
+            if (qEvent.IsSignal(QSignals.Exit))
             {
                 OnDisplayState("Exit B");
                 return null;
